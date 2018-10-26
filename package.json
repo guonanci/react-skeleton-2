@@ -1,0 +1,9 @@
+{
+  "name": "react-skeleton-2",
+  "version": "1.0.1",
+  "description": "All kinds of skeleton placeholder layouts, including desktop and mobile, referencing many kinds of websites, mobile apps.",
+  "main": "index.js",
+  "repository": "git@github.com:guonanci/react-skeleton-2.git",
+  "author": "guonanci <yiminanci@gmail.com>",
+  "license": "MIT"
+}
